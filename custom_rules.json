@@ -1,0 +1,8 @@
+{
+    ".pdf": "Documents",
+    ".jpg": "Images",
+    ".mp4": "Videos",
+    ".mp3": "Audio",
+    ".zip": "Archives",
+    ".py": "Code Files"
+}

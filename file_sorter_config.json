@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Images",
+        "Videos",
+        "Documents",
+        "Audio",
+        "Archives",
+        "Code Files",
+        "Other"
+    ],
+    "default_destination": "/home/teja_sai/Documents/Sorted_Files",
+    "custom_rules": {},
+    "excluded_extensions": [
+        ".tmp",
+        ".log",
+        ".cache"
+    ],
+    "auto_watch": false,
+    "ai_sorting": false,
+    "theme": "light"
+}

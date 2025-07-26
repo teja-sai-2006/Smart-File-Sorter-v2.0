@@ -1,0 +1,843 @@
+[
+    {
+        "timestamp": "2025-07-26T01:50:40.794148",
+        "operation": "sort",
+        "files_moved": [
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_1.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_1.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_2.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_2.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_3.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_3.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_4.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_4.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_5.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_5.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_1.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_1.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_2.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_2.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_3.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_3.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_4.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_4.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_5.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_5.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_6.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_6.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_7.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_7.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_8.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_8.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_9.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_9.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_10.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_10.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_1.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_1.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_2.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_2.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_3.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_3.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_4.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_4.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_5.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_5.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_6.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_6.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_7.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_7.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_8.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_8.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_9.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_9.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_10.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_10.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_1.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_1.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_1.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_1.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_1.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_1.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_2.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_2.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_2.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_2.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_2.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_2.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_3.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_3.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_3.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_3.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_3.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_3.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_4.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_4.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_4.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_4.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_4.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_4.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_5.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_5.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_5.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_5.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_5.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_5.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_1.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_1.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_1.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_1.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_2.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_2.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_2.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_2.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_3.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_3.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_3.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_3.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_4.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_4.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_4.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_4.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_5.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_5.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_5.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_5.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/one.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/one.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/two.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/two.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/three.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/three.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/four.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/four.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/five.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/five.xlsx",
+                "category": "Documents"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-26 11:41:43",
+        "files": [
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_1.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_1.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_2.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_2.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_3.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_3.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_4.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_4.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/video_small_5.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/video_small_5.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_1.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_1.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_2.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_2.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_3.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_3.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_4.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_4.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_5.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_5.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_6.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_6.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_7.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_7.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_8.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_8.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_9.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_9.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/random_10.emp",
+                "new_path": "/home/teja_sai/test place 2/Other/random_10.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_1.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_1.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_2.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_2.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_3.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_3.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_4.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_4.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_5.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_5.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_6.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_6.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_7.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_7.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_8.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_8.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_9.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_9.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/movie_10.vdn",
+                "new_path": "/home/teja_sai/test place 2/Other/movie_10.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_1.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_1.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_1.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_1.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_1.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_1.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_2.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_2.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_2.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_2.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_2.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_2.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_3.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_3.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_3.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_3.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_3.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_3.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_4.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_4.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_4.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_4.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_4.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_4.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/doc_5.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/doc_5.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/slide_5.ppt",
+                "new_path": "/home/teja_sai/test place 2/Documents/slide_5.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/sheet_5.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/sheet_5.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_1.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_1.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_1.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_1.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_2.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_2.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_2.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_2.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_3.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_3.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_3.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_3.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_4.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_4.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_4.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_4.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/image_5.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/image_5.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/text_5.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/text_5.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/one.txt",
+                "new_path": "/home/teja_sai/test place 2/Documents/one.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/two.pdf",
+                "new_path": "/home/teja_sai/test place 2/Documents/two.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/three.mp4",
+                "new_path": "/home/teja_sai/test place 2/Videos/three.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/four.jpg",
+                "new_path": "/home/teja_sai/test place 2/Images/four.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test-junk/five.xlsx",
+                "new_path": "/home/teja_sai/test place 2/Documents/five.xlsx",
+                "category": "Documents"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-26 11:42:34",
+        "files": [
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/video_small_1.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/video_small_1.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/video_small_2.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/video_small_2.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/video_small_3.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/video_small_3.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/video_small_4.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/video_small_4.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/video_small_5.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/video_small_5.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Videos/three.mp4",
+                "new_path": "/home/teja_sai/test-junk/Videos/three.mp4",
+                "category": "Videos"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_1.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_1.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_2.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_2.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_3.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_3.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_4.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_4.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_5.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_5.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_6.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_6.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_7.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_7.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_8.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_8.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_9.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_9.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/random_10.emp",
+                "new_path": "/home/teja_sai/test-junk/Other/random_10.emp",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_1.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_1.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_2.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_2.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_3.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_3.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_4.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_4.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_5.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_5.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_6.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_6.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_7.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_7.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_8.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_8.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_9.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_9.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Other/movie_10.vdn",
+                "new_path": "/home/teja_sai/test-junk/Other/movie_10.vdn",
+                "category": "Other"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/doc_1.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/doc_1.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/slide_1.ppt",
+                "new_path": "/home/teja_sai/test-junk/Documents/slide_1.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/sheet_1.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/sheet_1.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/doc_2.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/doc_2.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/slide_2.ppt",
+                "new_path": "/home/teja_sai/test-junk/Documents/slide_2.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/sheet_2.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/sheet_2.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/doc_3.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/doc_3.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/slide_3.ppt",
+                "new_path": "/home/teja_sai/test-junk/Documents/slide_3.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/sheet_3.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/sheet_3.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/doc_4.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/doc_4.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/slide_4.ppt",
+                "new_path": "/home/teja_sai/test-junk/Documents/slide_4.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/sheet_4.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/sheet_4.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/doc_5.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/doc_5.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/slide_5.ppt",
+                "new_path": "/home/teja_sai/test-junk/Documents/slide_5.ppt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/sheet_5.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/sheet_5.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/text_1.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/text_1.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/text_2.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/text_2.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/text_3.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/text_3.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/text_4.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/text_4.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/text_5.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/text_5.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/one.txt",
+                "new_path": "/home/teja_sai/test-junk/Documents/one.txt",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/two.pdf",
+                "new_path": "/home/teja_sai/test-junk/Documents/two.pdf",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Documents/five.xlsx",
+                "new_path": "/home/teja_sai/test-junk/Documents/five.xlsx",
+                "category": "Documents"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/image_1.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/image_1.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/image_2.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/image_2.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/image_3.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/image_3.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/image_4.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/image_4.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/image_5.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/image_5.jpg",
+                "category": "Images"
+            },
+            {
+                "original_path": "/home/teja_sai/test place 2/Images/four.jpg",
+                "new_path": "/home/teja_sai/test-junk/Images/four.jpg",
+                "category": "Images"
+            }
+        ]
+    }
+]
